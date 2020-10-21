@@ -16,7 +16,7 @@ Inspired by https://github.com/someshkar/colabcat
     - Пример **ID общего диска** - httр://drive.google.com/drive/folders/**0sssssQEqsq0000012A**
    
 ### 3. Создай проект в Google Developers Console:
-  1. Перейдите по [ссылке](https://developers.google.com/drive/api/v3/quickstart/python)
+  1. [ссылка](https://developers.google.com/drive/api/v3/quickstart/python)
   2. Нажми **Enable the Drive API**
   3. Имя делай любое или оставь **Quickstart**
   4. Выбери **Desktop App**
